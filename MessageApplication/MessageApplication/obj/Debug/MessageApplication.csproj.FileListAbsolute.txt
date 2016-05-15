@@ -1,0 +1,10 @@
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\MessageApplication.exe.config
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\EntityFramework.dll
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\EntityFramework.xml
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\obj\Debug\MessageApplication.csprojResolveAssemblyReference.cache
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\obj\Debug\MessageApplication.exe
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\obj\Debug\MessageApplication.pdb
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\MessageApplication.exe
+C:\Users\AndrejMaslovski\Documents\Skola\MessageApplication\MessageApplication\bin\Debug\MessageApplication.pdb

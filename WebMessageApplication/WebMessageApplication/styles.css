@@ -1,0 +1,64 @@
+﻿body {
+
+}
+
+.jumbotron{
+    padding: 125px 10px 125px 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(images/jumboPicture.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #FFF;
+}
+
+.smal-container{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #F7F7F7;
+    border: 1px solid #B2B2B2;
+    border-radius: 5px;
+    margin-bottom: 20px; 
+}
+
+.label {
+    color: #000;
+    font-size: 15px;
+    font-weight:initial;
+}
+
+.p-time{
+    margin: 0 10px 0 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.p-message{
+    margin: 10px 10px 0 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-default {
+    margin-top: 30px;
+    width: 350px;
+    background: #D96A5B;
+    border: none;
+    color: #FFF;
+}
+
+.btn-default:hover,
+.btn-default:focus{
+    background: #ED7161;
+    color: #FFF;
+}
+
+@media (max-width: 767px){
+    .btn-default {
+        width: 200px;
+    }
+
+    .smal-container{
+        margin: 0 10px 20px 10px;
+    }
+}
